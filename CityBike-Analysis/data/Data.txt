@@ -1,0 +1,5 @@
+The data files for this analysis exceeded 500 mb, which makes it impossible
+to upload them to github. For this reason, we provide links where the given data came from:
+1. https://www.citibikenyc.com/system-data
+2. http://w2.weather.gov/climate/xmacis.php?wfo=okx
+3. https://www.meteoblue.com/en/weather/archive/export/new-york_united-states_5128581
