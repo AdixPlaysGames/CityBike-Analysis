@@ -4,10 +4,10 @@
 
  1. A few selected slides:
 ![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide1.JPG)
-![](%22C:%5CUsers%5Czareb%5COneDrive%5CDesktop%5CCityBike-Analysis%5CPresentation%5CImages%5CSlide7.JPG%22)
-![](%22C:%5CUsers%5Czareb%5COneDrive%5CDesktop%5CCityBike-Analysis%5CPresentation%5CImages%5CSlide15.JPG%22)
-![](%22C:%5CUsers%5Czareb%5COneDrive%5CDesktop%5CCityBike-Analysis%5CPresentation%5CImages%5CSlide16.JPG%22)
-![](%22C:%5CUsers%5Czareb%5COneDrive%5CDesktop%5CCityBike-Analysis%5CPresentation%5CImages%5CSlide21.JPG%22)
-![](%22C:%5CUsers%5Czareb%5COneDrive%5CDesktop%5CCityBike-Analysis%5CPresentation%5CImages%5CSlide26.JPG%22)
-![](%22C:%5CUsers%5Czareb%5COneDrive%5CDesktop%5CCityBike-Analysis%5CPresentation%5CImages%5CSlide30.JPG%22)
+![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide7.JPG)
+![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide15.JPG)
+![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide16.JPG)
+![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide21.JPG)
+![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide26.JPG)
+![](https://github.com/AdixPlaysGames/CityBike-Analysis/blob/main/CityBike-Analysis/Presentation/Images/Slide30.JPG)
 ### We wish you a pleasant exploration of the project.
